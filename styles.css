@@ -1,0 +1,30 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.appoint {
+	margin-bottom: 8px;
+}
+
+.doubled {
+	margin-top: 8px;
+}
+
+#divPatients {
+	float: left;
+}
+
+#divInfo {
+	float: left;
+	border: 1px solid black;
+	 border-collapse: collapse;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
